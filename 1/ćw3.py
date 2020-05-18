@@ -1,0 +1,5 @@
+print('{} {}'.format('tak', 'nie'))
+print('{} {}'.format(16, 72))
+print('{1} {0} {3} {2}'.format('jeden', 'zero', 'dwa', 'trzy'))
+print('{:>30}'.format('zadanie'))
+print('{:f}'.format(3.141592653589793213123131))
